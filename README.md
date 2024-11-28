@@ -3,4 +3,4 @@
 Voici quelques mots pour ne rien dire. 
 
 
-LOCAL
+LOCAL.
